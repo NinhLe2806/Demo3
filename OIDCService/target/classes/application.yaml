@@ -1,0 +1,4 @@
+tokenFileConfigPath: "D:\\JavaProject\\OIDCService\\src\\main\\resources\\token-config.yaml"
+redisFileConfigPath: "D:\\JavaProject\\OIDCService\\src\\main\\resources\\redis-config.yaml"
+oidcServiceFileConfigPath: "D:\\JavaProject\\OIDCService\\src\\main\\resources\\oidc-service.yaml"
+

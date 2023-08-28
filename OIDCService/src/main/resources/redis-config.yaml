@@ -1,0 +1,4 @@
+url: "redis://localhost:1000"
+maxTotal: 5
+maxIdle: 3
+minIdle: 2

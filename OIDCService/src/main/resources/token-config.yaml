@@ -1,0 +1,14 @@
+secretKey: "hh1suaAIrHvuIg00o4a7ADIvwuW+zyRQIKJVg98Ya8gwfix4tgXaD27wCBlbh7PV"
+issuer: "localhost:8008/oidc"
+clients:
+  fee-client:
+    expireTime: 600000
+    refreshExpireTime: 1800000
+    clientId: "fee-client"
+    clientSecret: "M/hYpnrDvLhr8Ecwio9JNQ=="
+  product-client:
+    expireTime: 600000
+    refreshExpireTime: 1800000
+    clientId: "product-client"
+    clientSecret: "D5WShK4DzTYr2WfC_hbC9X8cMW8-cJI9"
+

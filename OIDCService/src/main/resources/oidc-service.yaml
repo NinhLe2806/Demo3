@@ -1,0 +1,8 @@
+port: 8008
+host: "localhost"
+uris:
+  authenticationUri: "/demo3/authentication"
+  verifyTokenUri: "/verify/accessToken"
+  refreshTokenUri: "/demo3/refreshToken"
+  getAccountInfo: "/demo3/getAccountInfo"
+  reuseAccessToken: "/demo3/reuseAccessToken"
