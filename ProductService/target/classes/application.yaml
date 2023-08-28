@@ -1,0 +1,2 @@
+redisFileConfigPath: "D:\\JavaProject\\ProductService\\src\\main\\resources\\redis-config.yaml"
+productServiceFileConfigPath: "D:\\JavaProject\\ProductService\\src\\main\\resources\\product-service.yaml"

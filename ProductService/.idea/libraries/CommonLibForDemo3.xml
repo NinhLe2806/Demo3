@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CommonLibForDemo3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CommonLib/out/artifacts/CommonLib_jar/CommonLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
